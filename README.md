@@ -1,5 +1,7 @@
 # Iframely API for Responsive Web Embeds
 
+[![Join the chat at https://beta.gitter.im/gitterHQ/iframely](https://badges-beta.gitter.im/gitterHQ/iframely.svg)](https://beta.gitter.im/gitterHQ/iframely?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Iframely is fast and simple HTTP API for responsive web embeds and semantic meta. The API covers well [over 1600 domains](https://iframely.com/try) through 150 custom domain plugins and generic parsers for [oEmbed](http://oembed.com/), [Open Graph](http://ogp.me/) and [Twitter Cards](https://dev.twitter.com/docs/cards), powered by Iframely's whitelist. 
 
 The whitelisting is manual process, and we do every-day manual regression testing to ensure integrity. [Submit your domain](https://iframely.com/qa/request), if you publish embeds.
